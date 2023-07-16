@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kastnerp/Eddy3D-HelperFunctions/HEAD?labpath=read_bins.ipynb)
+
 # Eddy3D-Helperfunctions
 
 Please post issues [here](https://github.com/EnvironmentalSystemsLab/Eddy3D-Public/issues).
